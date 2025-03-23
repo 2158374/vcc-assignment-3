@@ -1,0 +1,14 @@
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+functions-framework
+google-cloud-compute
+requests
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+Flask
+functions-framework
+google-api-python-client
